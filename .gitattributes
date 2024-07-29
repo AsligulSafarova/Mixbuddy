@@ -1,0 +1,3 @@
+touch .gitattributes
+# Ensure all text files use LF for consistency
+* text=autogit 
